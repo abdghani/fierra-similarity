@@ -49,5 +49,5 @@ return partial similarity
 ```
 Final Similarity = Lexical similarity − SDPC
 ```
-
+- ##### [DEMO](http://similarity-nlp.greyphase.xyz/)
 - [Reference : Assessing sentence similarity through lexical, syntactic and semantic analysis](https://www.sciencedirect.com/science/article/pii/S0885230816000048)
